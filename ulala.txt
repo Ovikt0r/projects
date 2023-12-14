@@ -3,4 +3,8 @@ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 bbbbbbbbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbbbbbbbbbbbbbbbb
 111111111111111111111111111111111111111
+<<<<<<< HEAD
 гшгнгшнгшнш
+=======
+222222222222222222222222222222222222222222git
+>>>>>>> gaga
